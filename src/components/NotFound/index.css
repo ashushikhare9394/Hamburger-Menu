@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+}
+.heading {
+  color: #616e7c;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+.para {
+  color: #616e7c;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
